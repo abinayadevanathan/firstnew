@@ -1,0 +1,7 @@
+colours:
+black
+pink
+lavender
+blue
+green
+brown
