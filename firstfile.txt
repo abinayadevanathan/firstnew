@@ -1,4 +1,4 @@
-names
+names:
 abi
 abin
 abinya
