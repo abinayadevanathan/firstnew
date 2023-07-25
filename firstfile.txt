@@ -1,1 +1,7 @@
-
+names
+abi
+abin
+abinya
+abinaya
+aby
+abidev
